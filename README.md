@@ -20,5 +20,7 @@ I want to one day become a professional in web development and app development, 
 
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timonwa&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
 
+Enjoy a random funny programming joke😁
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 

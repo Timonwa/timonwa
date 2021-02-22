@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Timonwa/timonwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 My name is Pelumi Eyi-Timonwa Akintokun and I'm from Lagos, Nigeria.
 I'm a self-taught frontend web developer currently mastering the skills one step at a time.
 I have already taken steps into HTML and CSS and now stepping into Javascript.
-I want to one day become a professional in web development and app development, oh and be a CSS goddess like Kelvin Powell who is a CSS god by the way. 😄
+I want to one day become a professional in web development and app development, oh and be a CSS goddess like Kevin Powell who is a CSS god by the way. 😄
 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now the *journey has begun*.
 

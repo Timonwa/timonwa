@@ -19,3 +19,7 @@ I want to one day become a professional in web development and app development, 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now the *journey has begun*.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<a href="https://github.com/Timonwa/timonwa">
+	<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timonwa&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
+</a>

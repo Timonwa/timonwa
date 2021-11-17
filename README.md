@@ -7,7 +7,7 @@
 ## Welcome!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=timonwa.visitor-badge)
 
 <a href="https://www.twitter.com/timonwa2"><img alt="Twitter" src="https://img.shields.io/badge/@Timonwa2%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/@timonwa2%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/Pelumi_Akintokun%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
 My name is Pelumi Eyi-Timonwa Akintokun and I'm from Lagos, Nigeria.
 I'm a self-taught frontend developer currently mastering the skills one step at a time.

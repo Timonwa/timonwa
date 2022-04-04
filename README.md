@@ -1,7 +1,7 @@
 ## Welcome!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=timonwa.visitor-badge)
 
 <a href="https://www.twitter.com/timonwa_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%23E4405F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/timonwa_codes"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 Hi, I'm Timonwa and I'm from Lagos, Nigeria.
@@ -24,6 +24,10 @@ My current technical skills include HTML, CSS, Javascript, Sass, Reactjs, Bootst
 <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timonwa&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
 
 ![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=radical)
+
+<a href="https://app.codiga.io/public/user/github/Timonwa">
+   <img src="https://api.codiga.io/public/badge/user/github/Timonwa?style=light" alt="codiga badge" />
+</a>
 
 Enjoy a random tech quote 🤓
 

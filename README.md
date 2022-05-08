@@ -21,8 +21,6 @@ My current technical skills include HTML, CSS, Javascript, Sass, Reactjs, Bootst
 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
 
-<img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timonwa&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs" />
-
 ![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=radical)
 
 <a href="https://app.codiga.io/public/user/github/Timonwa">

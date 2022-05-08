@@ -17,7 +17,12 @@ I am passionate about making the web accessible to everyone because I believe th
 I am building an opensource project/community called [Tech Roadmap](https://careerroadmap.tech) which aims to provide free online resources in the different formats that are specially 
 curated to form roadmaps or guidelines on the different careers in the tech industry. You can view the GitHub repo [here](https://github.com/Timonwa/techroadmap).
 
-My current technical skills include HTML, CSS, Javascript, Sass, Reactjs, Bootstrap, Tailwind, Git, GitHub, VsCode. And I'm currently learning VueJs and Bulma Css.
+My current technical skills include:
+- HTML, CSS, Javascript,
+- Sass, Styled-components, Bootstrap, Tailwind,
+- Reactjs, VueJs,
+- Git, GitHub,
+- VsCode, Figma, Trello, Slack, Google Docs.
 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
 

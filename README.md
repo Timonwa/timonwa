@@ -14,7 +14,7 @@ I also write notes on my blog, [Timonwa's Notes](https://blog.timonwa.com) on we
 
 I am passionate about making the web accessible to everyone because I believe that everyone irrespective of their disability deserves the right to a good user experience on the web.
 
-I am building an opensource project/community called [Tech Roadmap](https://careerroadmap.tech) which aims to provide free online resources in the different formats that are specially 
+I am building an opensource project/community called [Tech Roadmap](https://techroadmap.xyz) which aims to provide free online resources in the different formats that are specially 
 curated to form roadmaps or guidelines on the different careers in the tech industry. You can view the GitHub repo [here](https://github.com/Timonwa/techroadmap).
 
 My current technical skills include:

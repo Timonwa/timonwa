@@ -3,7 +3,7 @@
 <a href="https://www.twitter.com/timonwa_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%23ffdfba.svg?&style=for-the-badge&logo=Twitter&logoColor=434141"/></a>
 <a href="https://www.linkedin.com/in/pelumi-akintokun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%23ffdfba.svg?&style=for-the-badge&logo=LinkedIn&logoColor=434141"/></a> 
 <a href="https://www.instagram.com/timonwa_codes"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23ffdfba.svg?&style=for-the-badge&logo=Instagram&logoColor=434141"/></a>
-<a href="https://www.buymeacoffee.com/timonwa"><img src="https://img.shields.io/badge/%20%E2%98%95%20Sponsor%20me%20-ffdfba.svg?&style=for-the-badge" alt="Buy Me A Coffee" height="28" width="150"></a>
+<a href="https://www.buymeacoffee.com/timonwa"><img src="https://img.shields.io/badge/%20%E2%98%95%20Sponsor%20me%20-ffdfba.svg?&style=for-the-badge" alt="Buy Me A Coffee"></a>
 
 Hi, I'm Timonwa and I'm from Lagos, Nigeria.
 I'm a self-taught frontend developer currently mastering the skills one step at a time.

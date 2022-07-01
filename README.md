@@ -21,9 +21,9 @@ curated to form roadmaps or guidelines on the different careers in the tech indu
 My current technical skills include:
 - HTML, CSS, Javascript,
 - Sass, Styled-components, Bootstrap, Tailwind,
-- Reactjs, VueJs,
+- Reactjs, VueJs, Nextjs, 
 - Git, GitHub,
-- VsCode, Figma, Trello, Slack, Google Docs.
+- VsCode, Figma, Trello, Notion, Slack, Google Docs.
 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
 

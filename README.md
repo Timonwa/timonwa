@@ -29,7 +29,7 @@ I write by putting the end-users first while at the same time ensuring that ever
 I am passionate about making the web accessible to everyone because I believe that everyone, irrespective of their disability, deserves the right to a good user experience on the web.
 
 I am building an open source project called [Tech Roadmap](https://techroadmap.xyz), which aims to provide free online resources in different formats specially 
-curated to form roadmaps or guidelines on the different careers in the tech industry. You can view the GitHub repo [here](https://github.com/Timonwa/techroadmap) and give us a :star:.
+curated to form roadmaps or guidelines on the different careers in the tech industry. You can view the [GitHub repo](https://github.com/Timonwa/techroadmap) and give us a :star:.
 
 In my spare time, I contribute to other open-source projects and volunteer my technical skills to the tech community.
 

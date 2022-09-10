@@ -35,7 +35,8 @@ In my spare time, I contribute to other open-source projects and volunteer my te
 
 **Random Fact:** I love to surf the web for random and new things to learn, no knowledge is ever wasted. That is how I stumbled unto Tech and now *the journey is never ending*.
 
-![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=radical)
+![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula)
+[![Timonwa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 <a href="https://app.codiga.io/public/user/github/Timonwa">
   <img src="https://api.codiga.io/public/badge/user/github/Timonwa?style=light" alt="codiga badge" />

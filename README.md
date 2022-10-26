@@ -13,7 +13,7 @@ Hi, I'm Timonwa, and I'm from Lagos, Nigeria. :wave:
 I'm a self-taught front-end developer currently mastering the skills one step at a time.
 My Frontend skills are exceptional.
 My fault is Responsive Design; I just love to see a page I create have excellent responsiveness on both larger and smaller screens. 
-(Yes, I love CSS and love making responsive web designs.) :grin: 
+(Yes, I love CSS and love making responsive web designs and building reusable web components.) :grin: 
 
 My current technical skills include:
 - HTML, CSS, JavaScript, Markdown

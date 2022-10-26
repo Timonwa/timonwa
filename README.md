@@ -21,10 +21,10 @@ My current technical skills include:
 - ReactJs, NextJs, Redux ToolKit, VueJs, NuxtJs, Vuex
 - Git, GitHub,
 - VsCode, Figma,
-- Trello, Notion, Slack, Google Docs.
+- Trello, Notion, Jira, Slack, Google Docs.
 
 I also write notes on my blog, [Timonwa's Notes](https://blog.timonwa.com), on frontend development that help beginners have a more accessible learning journey.
-I write by putting the end-users first while at the same time ensuring that every critical piece of information is passed to them. I break complex topics and concepts into the simplest of terms and pay attention to details, especially regarding the grammatical structure and tone of my writing. I also write for companies like LogRocket and UploadCare. I'm currently learning about API documentation, and I'm open to writing on it.
+I write by putting the end-users first while at the same time ensuring that every critical piece of information is passed to them. I break complex topics and concepts into the simplest of terms and pay attention to details, especially regarding the grammatical structure and tone of my writing. I also write for companies like [LogRocket](https://blog.logrocket.com/author/pelumiakintokun/) and [UploadCare](https://uploadcare.com/blog/author/pelumi-akintokun/). I'm currently learning about API documentation, and I'm open to writing on it.
 
 I am passionate about making the web accessible to everyone because I believe that everyone, irrespective of their disability, deserves the right to a good user experience on the web.
 

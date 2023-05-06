@@ -38,10 +38,6 @@ In my spare time, I contribute to other open-source projects and volunteer my te
 ![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula)
 [![Timonwa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
-<a href="https://app.codiga.io/public/user/github/Timonwa">
-  <img src="https://api.codiga.io/public/badge/user/github/Timonwa?style=light" alt="codiga badge" />
-</a>
-
 Enjoy a random tech quote :nerd_face:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)

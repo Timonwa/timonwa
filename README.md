@@ -13,9 +13,10 @@ I'm passionate about responsive web design and user-centric design principles, a
 
 My current technical skills include:
 - **Languages**: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
-- **Frameworks/Libraries**: ReactJs, Next.js, Vue.js, Redux Toolkit, Styled-components, Tailwind CSS, Ant Design, Chakra UI
+- **CSS Frameworks/Libraries**: Styled-components, Tailwind CSS, Ant Design, Chakra UI
+- **Js Frameworks/Libraries**: ReactJs, Next.js, Vue.js, Redux Toolkit, Zustand
 - **Version Control and Collaboration**: Git, GitHub, Jira, Slack, Notion, Trello
-- **Development Tools and Services**: VsCode, Playwright, Storybook, Firebase, Vercel, Netlify
+- **Development Tools and Services**: VsCode, Vercel, Netlify, Firebase, Storybook, Playwright
 - **Design and Documentation**: Figma, Canva, Google Docs, Dropbox
 
 I also write notes on my blog, [Timonwa's Notes](https://blog.timonwa.com), which is all about simplifying complex topics and helping developers on their learning journey. I write by putting the readers first while at the same time ensuring that every critical piece of information is passed to them. I also write for companies like [LogRocket](https://blog.logrocket.com/author/pelumiakintokun/) and [Turing](https://www.turing.com/kb/how-to-debug-react).

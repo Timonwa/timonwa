@@ -12,8 +12,9 @@ I'm Timonwa, a Frontend Engineer and Technical Writer from Lagos, Nigeria.
 - **Frameworks/Libraries**: React, Next.js, Redux Toolkit, Styled-components, Tailwind CSS, Ant Design, Chakra UI
 - **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Vercel, Netlify, Playwright, Postman
 - **Design**: Figma, Canva, Google Docs, Dropbox
-<br/>
-
-![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula) [![Timonwa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
 
 <a href="https://timonwa.com">Portfolio</a> | <a href="https://timonwa.com/blog">Blog</a> | <a href="https://www.twitter.com/timonwa_">X(Twitter)</a>
+
+<br />
+
+![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula) [![Timonwa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)

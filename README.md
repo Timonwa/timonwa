@@ -10,8 +10,8 @@ I'm Timonwa, a Frontend Engineer and Technical Writer from Lagos, Nigeria.
 ### Technical Skills
 - **Languages**: HTML, CSS, JavaScript, TypeScript, SCSS, Markdown
 - **Frameworks/Libraries**: React, Next.js, Redux Toolkit, Styled-components, Tailwind CSS, Ant Design, Chakra UI
-- **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Vercel, Netlify, Playwright, Postman
-- **Design**: Figma, Canva, Google Docs, Dropbox
+- **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Vercel, Netlify, Playwright, Postman, Google Docs, Dropbox
+- **Design**: Figma, Canva
 
 <a href="https://timonwa.com">Portfolio</a> | <a href="https://timonwa.com/blog">Blog</a> | <a href="https://www.twitter.com/timonwa_">X(Twitter)</a>
 

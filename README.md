@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm Timonwa, a Frontend Engineer and Technical Writer from Lagos, Nigeria.
+I'm Timonwa, a Software Developer and Technical Writer from Lagos, Nigeria.
 
 ### What I Do
-- **Frontend Development**: Building and maintaining responsive, user-friendly web applications.
+- **Web Development**: Building and maintaining responsive, user-friendly web applications.
 - **Technical Writing**: Creating clear, concise, and easy-to-follow tutorials, how-to guides, and technical documentations.
 - **Open Source**: Passionate about actively building and contributing to open source projects.
 
@@ -13,7 +13,7 @@ I'm Timonwa, a Frontend Engineer and Technical Writer from Lagos, Nigeria.
 - **Tools**: Git, GitHub, Jira, Slack, Notion, Trello, VsCode, Storybook, Firebase, Vercel, Netlify, Playwright, Postman, Google Docs, Dropbox
 - **Design**: Figma, Canva
 
-<a href="https://timonwa.com">Portfolio</a> | <a href="https://timonwa.com/blog">Blog</a> | <a href="https://www.twitter.com/timonwa_">X(Twitter)</a>
+<a href="https://tech.timonwa.com">Portfolio</a> | <a href="https://tech.timonwa.com/blog">Blog</a> | <a href="https://www.twitter.com/timonwa_">X(Twitter)</a>
 
 <br />
 

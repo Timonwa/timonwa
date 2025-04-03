@@ -17,4 +17,5 @@ I'm Timonwa, a Software Developer and Technical Writer from Lagos, Nigeria.
 
 <br />
 
-![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula) [![Timonwa's github streak](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)](https://github.com/timonwa/github-readme-streak-stats)
+![Timonwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=timonwa&show_icons=true&theme=dracula) ![Timonwa's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=timonwa&theme=dracula)
+
